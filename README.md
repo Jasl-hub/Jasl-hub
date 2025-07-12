@@ -1,5 +1,3 @@
-![Description]([https://github.com/Jasl-hub/Jasl-hub/blob/main/digital_brain_circle_Version1.svg])
-
 ## Hi there 👋
 I'm Jasleen Kaur 
 
